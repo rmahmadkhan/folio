@@ -1,6 +1,6 @@
 ---
 date: '2020-07-01'
-title: 'GDSC Lead'
+title: 'Community Lead'
 company: 'GDSC PUCIT'
 location: 'Lahore, Pakistan'
 range: 'Jul 2020 - Jul 2021'

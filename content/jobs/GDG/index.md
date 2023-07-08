@@ -1,6 +1,6 @@
 ---
 date: '2021-08-01'
-title: 'GDG Organizer'
+title: 'Community Organizer'
 company: 'GDG Live Pakistan'
 location: 'Pakistan'
 range: 'Jul 2021 - Present'
