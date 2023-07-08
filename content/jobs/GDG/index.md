@@ -1,5 +1,5 @@
 ---
-date: '2021-07-01'
+date: '2022-08-01'
 title: 'GDG Organizer'
 company: 'GDG Live Pakistan'
 location: 'Pakistan'
