@@ -76,7 +76,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/rmahmadkhan/"
       target="_blank"
       rel="noreferrer">
-      Chat on LinedIn
+      Chat on LinkedIn
     </a>
   );
 
