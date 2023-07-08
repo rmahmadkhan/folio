@@ -149,11 +149,11 @@ const About = () => {
               Besides that, I'm a passionate community builder. For that, I have been attached to{' '}
               <a href="https://developers.google.com/">Google for Developers</a>{' '}
               since 2020 as a community organizer.
-              Currently, I leading{' '}
+              Currently leading{' '}
               <a href="https://gdglivepakistan.com/">GDG Live Pakistan</a>,{' '}
               and{' '}
-              <a href="https://linktr.ee/flutterlahore/">Flutter Lahore</a>.{' '}
-              Previously{' '}
+              <a href="https://linktr.ee/flutterlahore/">Flutter Lahore</a>,{' '}
+              previously{' '}
               <a href="https://linktr.ee/dscpucit/">GDSC PUCIT</a>.
             </p>
 
