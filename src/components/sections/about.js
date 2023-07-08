@@ -149,16 +149,12 @@ const About = () => {
               Besides that, I'm a passionate community builder. For that, I have been attached to{' '}
               <a href="https://developers.google.com/">Google for Developers</a>{' '}
               since 2020 as a community organizer.
-              Currently, I am co-managing{' '}
-              <a href="https://developers.google.com/">GDG Live Pakistan</a>{' '}
-              where we are on a mission to connect digital Pakistan.
-              I'm also the founder of{' '}
-              <a href="https://developers.google.com/">Flutter Lahore</a>,{' '}
-              where we are building a local community for developers in Lahore who are interested in{' '}
-              <a href="https://developers.google.com/">Flutter</a>.{' '}
-              Previously, I led{' '}
-              <a href="https://developers.google.com/">GDSC PUCIT</a>{' '}
-              at my campus where I managed a team to build a tech community in my university.
+              Currently, I leading{' '}
+              <a href="https://gdglivepakistan.com/">GDG Live Pakistan</a>,{' '}
+              and{' '}
+              <a href="https://linktr.ee/flutterlahore/">Flutter Lahore</a>.{' '}
+              Previously{' '}
+              <a href="https://linktr.ee/dscpucit/">GDSC PUCIT</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
