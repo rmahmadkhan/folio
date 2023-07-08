@@ -60,12 +60,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Ahmad Khan</h2>;
+  const two = <h2 className="big-heading">Ahmad Khan 👋</h2>;
   const three = <h3 className="medium-heading">I code, travel &amp; build communities.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
+        I’m a software engineer building (and occasionally designing) exceptional
         digital experiences with a passion of building communities!
       </p>
     </>
@@ -76,7 +76,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/rmahmadkhan/"
       target="_blank"
       rel="noreferrer">
-      Chat with me on LinedIn!
+      Chat on LinedIn
     </a>
   );
 
