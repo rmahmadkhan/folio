@@ -39,7 +39,7 @@ const Icon = ({ name }) => {
       return <IconLinkedin />;
     case 'Loader':
       // return <IconLoader />;
-      return <IconLogo />;
+      return <IconStar />;
     case 'Logo':
       return <IconLogo />;
     case 'PlayStore':
