@@ -41,7 +41,8 @@ const Icon = ({ name }) => {
       // return <IconLoader />;
       return <IconStar />;
     case 'Logo':
-      return <IconLogo />;
+      // return <IconLogo />;
+      return <IconStar />;
     case 'PlayStore':
       return <IconPlayStore />;
     case 'Star':
