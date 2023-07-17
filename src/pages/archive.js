@@ -172,10 +172,7 @@ const ArchivePage = ({ location, data }) => {
                 projects.map(({ node }, i) => {
                   const {
                     date,
-                    github,
                     external,
-                    ios,
-                    android,
                     title,
                     tech,
                     company,
@@ -206,21 +203,6 @@ const ArchivePage = ({ location, data }) => {
                           {external && (
                             <a href={external} aria-label="External Link">
                               <Icon name="External" />
-                            </a>
-                          )}
-                          {github && (
-                            <a href={github} aria-label="GitHub Link">
-                              <Icon name="GitHub" />
-                            </a>
-                          )}
-                          {ios && (
-                            <a href={ios} aria-label="Apple App Store Link">
-                              <Icon name="AppStore" />
-                            </a>
-                          )}
-                          {android && (
-                            <a href={android} aria-label="Google Play Store Link">
-                              <Icon name="PlayStore" />
                             </a>
                           )}
                         </div>
