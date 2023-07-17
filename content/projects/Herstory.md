@@ -1,6 +1,7 @@
 ---
 date: '2023-05-07'
 title: 'HERstory: An inspiring insight'
+github: ''
 external: 'https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-herstory-an-inspiring-insight/'
 tech:
   - Organizer
