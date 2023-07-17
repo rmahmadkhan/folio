@@ -180,7 +180,6 @@ const Projects = () => {
             frontmatter {
               title
               tech
-              github
               external
             }
             html
