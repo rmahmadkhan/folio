@@ -152,18 +152,18 @@ const ArchivePage = ({ location, data }) => {
 
       <main>
         <header ref={revealTitle}>
-          <h1 className="big-heading">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <h1 className="big-heading">Community Archives</h1>
+          <p className="subtitle">A big list of events I've organized or spoke at</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
           <table>
             <thead>
               <tr>
-                <th>Year</th>
-                <th>Title</th>
-                <th className="hide-on-mobile">Made at</th>
-                <th className="hide-on-mobile">Built with</th>
+                <th>Date</th>
+                <th>Event</th>
+                <th className="hide-on-mobile">Community</th>
+                <th className="hide-on-mobile">Keywords</th>
                 <th>Link</th>
               </tr>
             </thead>
@@ -182,7 +182,7 @@ const ArchivePage = ({ location, data }) => {
                   } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
-                      <td className="overline year">{`${new Date(date).getFullYear()}`}</td>
+                      <td className="overline year">{`${new Date(date).getDate()}`}</td>
 
                       <td className="title">{title}</td>
 
