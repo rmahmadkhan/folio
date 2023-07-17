@@ -247,9 +247,14 @@ const Projects = () => {
         <footer>
           {tech && (
             <ul className="project-tech-list">
-              {tech.map((tech, i) => (
-                <li key={i}>{tech}</li>
-              ))}
+              {tech?.length > 0 &&
+                tech.map((item, i) => (
+                  <span key={i}>
+                    {item}
+                    {''}
+                    {i !== tech.length - 1 && <span className="separator">&middot;</span>}
+                  </span>
+                ))}
             </ul>
           )}
         </footer>
@@ -259,7 +264,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Noteworthy community contributions</h2>
+      <h2 ref={revealTitle}>Noteworthy community happenings</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view the archive
