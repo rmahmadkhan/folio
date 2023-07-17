@@ -1,7 +1,6 @@
 ---
 date: '2022-07-07'
 title: 'Flutter Meet Lahore'
-github: ''
 external: 'https://fb.me/e/1KjbzhJd5'
 tech:
   - Organizer
