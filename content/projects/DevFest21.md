@@ -1,6 +1,7 @@
 ---
 date: '2021-12-10'
 title: "DevFest '21 Pakistan"
+github: ''
 external: "https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-gdg-live-pakistan-devfest-2021/"
 tech:
   - Organizer

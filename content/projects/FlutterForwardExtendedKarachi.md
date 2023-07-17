@@ -1,6 +1,7 @@
 ---
 date: '2023-03-11'
 title: 'Flutter Forward Extended - Karachi'
+github: ''
 external: 'https://fb.me/e/2kJLzAveE'
 tech:
   - Speaker

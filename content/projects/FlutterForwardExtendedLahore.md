@@ -1,6 +1,7 @@
 ---
 date: '2023-03-11'
 title: 'Flutter Forward Extended - Lahore'
+github: ''
 external: 'https://fb.me/e/2vF9nA9D7'
 tech:
   - Organizer
