@@ -219,8 +219,8 @@ const Projects = () => {
       <div className="project-inner">
         <header>
           <div className="project-top">
-            <div className="star">
-              <Icon name="Star" />
+            <div className="folder">
+              <Icon name="Folder" />
             </div>
             <div className="project-links">
               {external && (
