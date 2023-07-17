@@ -1,7 +1,6 @@
 ---
 date: '2022-12-11'
-title: 'DevFest '22 Pakistan'
-github: ''
+title: "DevFest '22 Pakistan"
 external: 'https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-devfest-2022-pakistan/'
 tech:
   - Organizer
