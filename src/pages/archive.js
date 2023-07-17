@@ -163,7 +163,7 @@ const ArchivePage = ({ location, data }) => {
                 <th>Date</th>
                 <th>Event</th>
                 <th className="hide-on-mobile">Community</th>
-                <th className="hide-on-mobile">Keywords</th>
+                <th className="hide-on-mobile">Participation</th>
                 <th>Link</th>
               </tr>
             </thead>
