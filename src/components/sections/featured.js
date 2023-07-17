@@ -392,6 +392,16 @@ const Featured = () => {
                           <Icon name="GitHub" />
                         </a>
                       )}
+                      {appstore && (
+                        <a href={playstore} aria-label="App Store Link">
+                          <Icon name="AppStore" />
+                        </a>
+                      )}
+                      {playstore && (
+                        <a href={playstore} aria-label="Play Store Link">
+                          <Icon name="PlayStore" />
+                        </a>
+                      )}
                       {external && !cta && (
                         <a href={external} aria-label="External Link" className="external">
                           <Icon name="External" />
