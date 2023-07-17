@@ -384,7 +384,7 @@ const Featured = () => {
                         </a>
                       )}
                       {appstore && (
-                        <a href={playstore} aria-label="AppStore Link">
+                        <a href={appstore} aria-label="AppStore Link">
                           <Icon name="AppStore" />
                         </a>
                       )}
