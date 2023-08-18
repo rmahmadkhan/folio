@@ -3,7 +3,6 @@ date: '4'
 title: 'Meal Planner'
 cover: './MealPlanner.png'
 appstore: 'https://apps.apple.com/us/app/meal-planner-meal-tracker/id1583377792'
-playstore: 'https://play.google.com/store/apps/details?id=com.playon.one.zero.one'
 tech:
   - Flutter (iOS, Android)
   - Firebase
