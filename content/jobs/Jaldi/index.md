@@ -7,7 +7,8 @@ range: 'Mar 2022 - Present'
 url: 'https://jalditech.com/'
 ---
 
-- Deliver high-quality, robust production code for Jaldi's web &amp; mobile apps
-- Work alongside co-founders and other team members to research, and develop technical solutions to fulfill business requirements
-- Collaborate with managers, designers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, and knowledge shares
+- Deliver high-quality, robust production code for Jaldi's iOS, Android &amp; web apps in Flutter & Python
+- Build a simple and easy-to-use sales crm allowing managers to reduce cold calling admin work by 80%
+- Played a pivotal role in revamping the mvp and later launching in production resulting in increase in paying orgs by over 900%
+- Maintaining unit tests coverage through Test-driven Development (TDD) on backend in Python
+- Provide leadership within engineering department through close collaboration, and code reviews
