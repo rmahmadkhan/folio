@@ -4,21 +4,12 @@ const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>Loader Logo</title>
     <g>
-      {/* Outer A */}
       <g id="A" transform="translate(11.000000, 5.000000)">
         <path
-          d="M50 10 L35 70 L40 70 L44 55 L56 55 L60 70 L65 70 L50 10 Z" // Outer part of A
+          d="M40.691667,60.15 L28.691667,60.15 L28.691667,30.15 L40.291667,30.15 L40.291667,43.15 L47.591667,43.15 L47.591667,30.15 L59.191667,30.15 L59.191667,60.15 L47.591667,60.15 L47.591667,48.15 L40.291667,48.15 L40.291667,60.15 Z M36.691667,56.15 L36.691667,38.15 L47.591667,38.15 L47.591667,56.15 Z"
           fill="currentColor"
         />
-        {/* Inner triangle */}
-        <path
-          d="M47 50 L53 50 L50 35 Z" // Inner triangle
-          fill="none" // Hollow
-          stroke="currentColor" // Keep the outline visible
-        />
       </g>
-
-      {/* Hexagonal outer shape */}
       <path
         stroke="currentColor"
         strokeWidth="5"
