@@ -1,7 +1,7 @@
 ---
 date: '2024-01-01'
 title: 'Senior Software Engineer (Lead)'
-company: 'RĀNA DEV'
+company: 'RĀNA'
 location: 'United States'
 range: 'Jan 2024 - Sep 2024'
 url: 'https://ranadev.io/'
