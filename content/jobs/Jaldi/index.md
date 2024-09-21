@@ -3,7 +3,7 @@ date: '2022-03-01'
 title: 'Software Engineer'
 company: 'Jaldi'
 location: 'Dubai, UAE'
-range: 'Mar 2022 - Present'
+range: 'Mar 2022 - Dec 2023'
 url: 'https://jalditech.com/'
 ---
 
