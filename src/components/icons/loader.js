@@ -1,27 +1,43 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <title>Loader Logo</title>
+  <svg id="logo-loader" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="64" height="64">
+    <title>Loader A</title>
     <g>
-      <g id="A" transform="translate(11.000000, 5.000000)">
-        <path
-          d="M45.691667,60.15 L28.691667,60.15 L28.691667,30.15 L45.691667,30.15 L45.691667,60.15 Z M33.691667,35.15 L33.691667,55.15 L40.691667,55.15 L40.691667,35.15 L33.691667,35.15 Z"
-          fill="currentColor"
-        />
-      </g>
-      <path
+      {/* Stylized Letter A */}
+      <text
+        x="50%"
+        y="54%"
+        textAnchor="middle"
+        dominantBaseline="middle"
+        fontFamily="'Calibre', 'Arial', sans-serif"
+        fontWeight="bold"
+        fontSize="48"
+        fill="currentColor"
+        letterSpacing="2"
+      >
+        A
+      </text>
+      {/* Animated Circular Stroke */}
+      <circle
+        cx="50"
+        cy="50"
+        r="40"
+        fill="none"
         stroke="currentColor"
         strokeWidth="5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
-      />
+        strokeDasharray="62.8 188.4"
+        strokeDashoffset="0"
+      >
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="0 50 50"
+          to="360 50 50"
+          dur="1.2s"
+          repeatCount="indefinite"
+        />
+      </circle>
     </g>
   </svg>
 );
